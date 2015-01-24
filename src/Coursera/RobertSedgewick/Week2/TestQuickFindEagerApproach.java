@@ -2,12 +2,13 @@
  * @Author Ganesh Satpute
  * @Date Nov 30, 2014
  */
-package courseraRobertSedgewick.Week2;
-
-import static org.junit.Assert.*;
+package Coursera.RobertSedgewick.Week2;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 /**
  * @author Ganesh

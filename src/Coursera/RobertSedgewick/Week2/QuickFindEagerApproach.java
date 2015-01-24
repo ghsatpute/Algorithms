@@ -1,5 +1,5 @@
 
-package courseraRobertSedgewick.Week2;
+package Coursera.RobertSedgewick.Week2;
 
 
 /**
