@@ -1,4 +1,4 @@
-package Coursera.TimRoughgarden.Assignments;
+package coursera.timroughgarden.assignments;
 
 
 import java.io.BufferedReader;

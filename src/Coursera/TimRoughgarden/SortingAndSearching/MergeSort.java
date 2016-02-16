@@ -1,4 +1,4 @@
-package Coursera.TimRoughgarden.SortingAndSearching;
+package coursera.timroughgarden.sortingandsearching;
 
 
 import java.util.Arrays;

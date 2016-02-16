@@ -1,7 +1,7 @@
-package Coursera.TimRoughgarden.Assignments;
+package coursera.timroughgarden.assignments;
 
 
-import Coursera.TimRoughgarden.SortingAndSearching.QuickSort;
+import coursera.timroughgarden.sortingandsearching.QuickSort;
 
 import java.util.Arrays;
 

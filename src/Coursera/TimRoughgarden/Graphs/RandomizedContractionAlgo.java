@@ -1,4 +1,4 @@
-package Coursera.TimRoughgarden.Graphs;
+package coursera.timroughgarden.graphs;
 
 
 /*

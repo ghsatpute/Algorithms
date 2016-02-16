@@ -1,10 +1,12 @@
-package Coursera.TimRoughgarden.Assignments;
+package coursera.timroughgarden.assignments;
 
 
-import Coursera.TimRoughgarden.Graphs.AdjacencyListGraph;
-import Coursera.TimRoughgarden.Graphs.GraphNode;
+import coursera.timroughgarden.graphs.AdjacencyListGraph;
+import coursera.timroughgarden.graphs.GraphNode;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 /*
  *  @author : Ganesh Satpute

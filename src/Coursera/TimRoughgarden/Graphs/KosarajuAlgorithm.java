@@ -1,7 +1,5 @@
-package Coursera.TimRoughgarden.Graphs;
+package coursera.timroughgarden.graphs;
 
-
-import com.intellij.icons.AllIcons;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,18 +11,14 @@ import java.util.List;
  */
 public class KosarajuAlgorithm {
 
-    public static void main(String[] args) {
-        List<GraphNode> graph = GraphUtils.createDirectedGraph();
-        reverseGraph(graph);
-    }
     public KosarajuAlgorithm(List<GraphNode> data)
     {
         run(data);
     }
 
-    private List<GraphNode> run(List<GraphNode> graph) {
-        List<GraphNode> reverseGraph = reverseGraph(graph);
-        return null;
+    public static void main(String[] args) {
+        List<GraphNode> graph = GraphUtils.createDirectedGraph();
+        reverseGraph(graph);
     }
 
     private static List<GraphNode> reverseGraph(List<GraphNode> graph) {
@@ -44,5 +38,10 @@ public class KosarajuAlgorithm {
             }
         }
         return reverseGraph;
+    }
+
+    private List<GraphNode> run(List<GraphNode> graph) {
+        List<GraphNode> reverseGraph = reverseGraph(graph);
+        return null;
     }
 }

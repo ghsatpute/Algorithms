@@ -1,7 +1,7 @@
-package Coursera.TimRoughgarden.Assignments;
+package coursera.timroughgarden.assignments;
 
 
-import Coursera.TimRoughgarden.SortingAndSearching.CountingInversion;
+import coursera.timroughgarden.sortingandsearching.CountingInversion;
 
 /*
  *  @author : Ganesh Satpute

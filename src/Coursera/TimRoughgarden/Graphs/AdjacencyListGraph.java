@@ -1,11 +1,7 @@
-package Coursera.TimRoughgarden.Graphs;
+package coursera.timroughgarden.graphs;
 
-
-import com.intellij.icons.AllIcons;
 
 import java.util.ArrayList;
-import java.util.Dictionary;
-import java.util.Hashtable;
 import java.util.List;
 
 /*

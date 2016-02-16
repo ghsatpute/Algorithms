@@ -1,7 +1,6 @@
-package Coursera.TimRoughgarden.SortingAndSearching;
+package coursera.timroughgarden.sortingandsearching;
 
 
-import java.math.BigInteger;
 import java.util.Arrays;
 
 /*
